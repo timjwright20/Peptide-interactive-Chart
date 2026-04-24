@@ -1,0 +1,1 @@
+This is an interactive peptide chart showing the 100 most popular peptides based on several global resources, including government resources. It allows you to select peptides in different categories and to learn more about their effectiveness and current recommendations for human dosing. It does not endorse their use or prescribe them in any way
